@@ -1,0 +1,1 @@
+"""AfricaInvest Intelligence — Application package."""

@@ -1,0 +1,26 @@
+{
+  "model": "random_forest",
+  "f1_macro_test": 0.7465,
+  "cv_f1_mean": 0.7492,
+  "cv_f1_std": 0.0424,
+  "n_train": 1600,
+  "n_test": 400,
+  "features": [
+    "gdp_growth",
+    "inflation_rate",
+    "unemployment_rate",
+    "fdi_pct_gdp",
+    "trade_openness",
+    "literacy_rate",
+    "population_growth",
+    "internet_penetration",
+    "government_debt_pct",
+    "natural_resources_rents",
+    "region"
+  ],
+  "label_order": [
+    "low",
+    "medium",
+    "high"
+  ]
+}
