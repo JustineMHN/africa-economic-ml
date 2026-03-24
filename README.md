@@ -195,4 +195,4 @@ Déploiement direct depuis GitHub sur [share.streamlit.io](https://share.streaml
 
 ## 📄 Licence
 
-[MIT](LICENSE) — Justine MHN, 2025
+[MIT](LICENSE) — Justine MHN, 2026
